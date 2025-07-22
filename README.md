@@ -22,7 +22,6 @@ This academic project was created to explore how generative AI can enhance educa
 
 - `main.py`: Core examples (summary, emoji, lesson plan)
 - `agents_demo.py`: Optional advanced GPT-4o agent demos
-- `hochschulprojekt.html`: Project summary in HTML format
 
 ---
 
